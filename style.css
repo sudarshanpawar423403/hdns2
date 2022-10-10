@@ -1,0 +1,118 @@
+#main-container{
+    background: url('https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg');
+    /* background-image: linear-gradient(to bottom, grey , black); */
+    border: 10px groove green;
+    padding: 25px;
+    margin: 10px yellow;
+    position: relative;
+    height: 2300px;
+    background-repeat: no-repeat;
+    background-size: 1503px 2370px;
+    
+    
+    }
+    .box-style{
+        border: 10px solid red;
+        background-color: black;
+        color: white;
+        border-radius: 32px;
+        font-style: italic;
+    
+    }
+    
+    #first-container{
+    
+    
+        padding: 8px 15px 30px 5px;
+    
+        width: 33%;
+        font-size: 30px;
+        position: relative;
+        top: 0px;
+        left: -10px;
+    
+    
+    }
+    #second-container{
+        padding: 10px 8px 6px 20px;
+        width: 30%;
+        font-size: 28px;
+        position: relative;
+        top: -114px;
+        left: 433px;
+    
+    
+    }
+    #third-container{
+        padding: 10px 20px 5px 40px;
+        width: 25%;
+        font-size: 28px;
+        position: relative;
+        top: -198px;
+        left: 990px;
+    }
+    #circle{
+        width: 500px;
+        height: 500px;
+        border: 10px solid rgb(40, 39, 39);
+        border-radius: 250px;
+        background: rgb(13, 160, 104);
+        text-align: center;
+        text-decoration: underline;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: bold;
+    
+    
+    }
+    .in-circle{
+        position: relative;
+        top: 121px;
+        left: 0px;
+    }
+    #my-form{
+        background-color: beige;
+        border: 10px dashed red;
+        width: 400px;
+        position: relative;
+        top: -655px;
+        left: 729px;
+    
+    }
+    label{
+        color:rgb(200, 91, 91);
+    }
+    #Menu{
+        width: 35%;
+        padding: 20px;
+        text-align: center;
+        font-size: 40px;
+        position: relative;
+        top: -7px;
+        left: 392px;
+    
+    
+    }
+    #menu-div{
+        position: relative;
+        top: -634px;
+        left: 0px;
+    }
+    #cards{
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        top: -579px;
+        left: 0px;
+    
+    }
+    .cards-style{
+        background-color: rgb(87, 252, 252);
+        border: 7px solid green;
+        color: blue;
+        border-radius: 25px;
+        width: 30%;
+        font-size: 30px;
+        text-align: center;
+        margin: 15px;
+    }
